@@ -36,7 +36,7 @@
 - [ ] AE support or anything outside of a 1:1 port of the original game, as the port should feel like a native console release.
 
 # Untested:
-- [ ] Gameplay (I only own a stock 64MB Xbox which unfortunately OOMs on level change, and none of the builds that display more than general log info have successfully rendered a menu in Xemu)
+- [ ] Level transitions
 
 # Installation
 - Download and extract the latest release .zip file to your folder of choice
