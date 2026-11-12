@@ -2,8 +2,9 @@
 <p align="center">
   <em>Oni for the original Xbox using OniFoxed and NXDK.</em><br>
   <img src="screenshots/1.png" alt="" /><br>
-  <img src="screenshots/2.png" alt="" />  <img src="screenshots/3.png" alt="" /><br>
-	  <i>Save data from OniFoXed, as viewed in the dashboard.</i>
+  <img src="screenshots/3.png" alt="" /><br>
+  <img src="screenshots/2.png" alt="" /><br>
+<i>Save data from OniFoXed, as viewed in the dashboard.</i><br>
 </p>
 
 # Working:
