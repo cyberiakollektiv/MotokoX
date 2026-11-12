@@ -37,6 +37,7 @@
 
 # Untested:
 - [ ] Level transitions
+- [ ] Full retail gameplay (currently tested against the Windows demo)
 
 # Installation
 - Download and extract the latest release .zip file to your folder of choice
